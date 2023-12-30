@@ -6,20 +6,20 @@
 <h4>1.Consul Discovery:</h4>  
 
 <p>Objective: Enable dynamic service discovery and registration.<p>
-<img src="images/A4_consul2.png >
+<img src="images/images/A4_consul2.png ">
 <br>
 <h4><b>2.Spring Cloud Config:</b></h4>
 <p>Objective: Centralized configuration management for microservices.</p>
-<img src="images/springcloudconfig.png">
+<img src="images/images/springcloudconfig.png">
 <h6>Actuator Refresh Configurations</h6>
 
-<img src="images/customers-configparam.png">
+<img src="images/images/customers-configparam.png">
 
 <h4>3.Spring Cloud Gateway:</h4>
 <br>
 <p>Objective: Act as a gateway for routing and managing communication between microservices.</p>
-<img src="images/gatewayAt4.png">
-<img src="images/inventory-servicevia_gateway.png">
+<img src="images/images/gatewayAt4.png">
+<img src="images/images/inventory-servicevia_gateway.png">
 <h4>4.Customer-service:</h4>
 <p>Objective: Manage customer-related information.</p>
 
@@ -31,7 +31,7 @@
 <h4>6.Order Service:</h4>
 
 <p>Objective: Manage customer orders and interactions with other services.</p>
-<img src="images/order_service.png">
+<img src="images/images/order_service.png">
 <br>
 
 
